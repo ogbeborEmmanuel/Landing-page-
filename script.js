@@ -1,5 +1,3 @@
-const name = "ogbebor emmanuel"
-console.log(name);
 
 const open = document.getElementById("open")
 const navCard = document.getElementById("navCard")
@@ -21,10 +19,3 @@ close.addEventListener("click", () => {
    body.style.display ="block"
 })
 
-
-
-const Sum = (number1,number2) => {
-          return number1 + number2
-}
-
-Sum()
